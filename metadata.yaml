@@ -1,0 +1,34 @@
+_repo: Re-creations_71094
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Lutz, Grace Livingston Hill
+    - Livingston, Grace
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: https://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: ''
+gutenberg_issued: '2023-07-02'
+identifiers:
+  gutenberg: '71094'
+language: en
+pgterms:marc904: https://archive.org/details/recreations00hill_0/page/n9/mode/2up
+pgterms:marc905: 20220315075911hill
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Bob Taylor, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: '  $aUnited States :$bJ.B. Lippincott Company, $c1921, copyright
+  1922, copyright 1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Re-creations
+url: http://www.gutenberg.org/ebooks/71094
